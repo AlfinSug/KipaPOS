@@ -1,1 +1,1 @@
-Membantu halaman tambah product dan tambah supplier di aplikasi KipaPOS
+Membantu mengembangkan halaman tambah product dan tambah supplier di aplikasi KipaPOS
